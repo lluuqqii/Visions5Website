@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	font-family:"Times New Roman", Times, serif;
+	background:none;
+}
+
+nav, footer {
+	display:none;
+}
+
+a {
+	color: #000;
+	text-decoration: none;	
+}

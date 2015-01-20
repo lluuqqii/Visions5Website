@@ -1,0 +1,1 @@
+[09-Nov-2013 02:56:36] PHP Fatal error:  Call to undefined function  get_header() in /home3/visions/public_html/wp-content/themes/discover/index.php on line 1
