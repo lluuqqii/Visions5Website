@@ -91,18 +91,18 @@ $.fn.flipster = function(options) {
                     if ( typeof category !== 'undefined' ) {
                         if ( $.inArray(category,navCategories) < 0 ) {
                             navCategories.push(category);
-                            navList[category] = '<li class="flip-nav-category"><a href="#" class="flip-nav-category-link" data-flip-category="'+category+'">'+category+'</a>\n<ul class="flip-nav-items">\n';
+                            navList[category] = '';
                         }
                     }
 
                     if ( $.inArray(itemId,navItems) < 0 ) {
                         navItems.push(itemId);
-                        var link = '<a href="#'+itemId+'" class="flip-nav-item-link">'+itemTitle+'</a></li>\n';
+                        var link = '';
                         if ( typeof category !== 'undefined' ) {
-                            navList[category] = navList[category] + '<li class="flip-nav-item">' + link;
+                            navList[category] = navList[category] + '' + link;
                         }
                         else {
-                            navList[itemId] = '<li class="flip-nav-item no-category">' + link;
+                            navList[itemId] = '' + link;
                         }
                     }
                 });

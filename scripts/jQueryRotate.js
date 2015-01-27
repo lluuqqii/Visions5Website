@@ -91,7 +91,7 @@ jQuery.fn.extend({
 ImageRotate:function(parameters)
 {	
 	if (this.Wilq32&&this.Wilq32.PhotoEffect) return;
-	var paramClone = $.extend(true, {}, parameters);
+	var paramClone = $.extend(true, {}, parameters)
 	return (new Wilq32.PhotoEffect(this.get(0),paramClone))._temp;
 },
 rotate:function(parameters)
@@ -151,7 +151,7 @@ Wilq32.PhotoEffect=(function(){
 		};
 		this._BindEvents(this._img,this._parameters.bind);
 		this._rotate(this._parameters.angle);
-	};
+	}
 	
 	else 
 	return function(img,parameters)
@@ -209,7 +209,7 @@ Wilq32.PhotoEffect.prototype._BindEvents=function(element,events){
 			for (var b in events[a]) if (events[a].hasOwnProperty(b)) 
 				jQuery(element).bind(b,events[a][b]);
 	}
-};
+}
 
 Wilq32.PhotoEffect.prototype._Loader=
 (function()
@@ -253,7 +253,7 @@ Wilq32.PhotoEffect.prototype._Loader=
 		this._BindEvents(this._temp,this._parameters.bind);
 		this._rotate(this._parameters.angle);		
 		
-	};
+	}
 	else
 	return function ()
 	{
@@ -295,7 +295,7 @@ Wilq32.PhotoEffect.prototype._animateStart=function()
 		clearTimeout(this._timer);
 	}
 	this._animate();
-};
+}
 Wilq32.PhotoEffect.prototype._animate=function()
 {
 	if (this._canvas||this._vimage||this._img) this._angle-=(this._angle-this._parameters.animateAngle)*0.1;
@@ -320,7 +320,7 @@ Wilq32.PhotoEffect.prototype._animate=function()
 				self._animate.call(self);
 			}, 10);
 		}
-};
+}
 
 Wilq32.PhotoEffect.prototype._rotate = (function()
 {
@@ -331,11 +331,11 @@ Wilq32.PhotoEffect.prototype._rotate = (function()
 		//var radians=angle*Math.PI/180;
 		//this._vimage.style.top=  (this._img._heightMax - this._img.height)/2- (this._vimage.offsetHeight-this._img.height)/2 +"px";
 		//this._vimage.style.left= (this._img._widthMax - this._img.width)/2- (this._vimage.offsetWidth-this._img.width)/2 +"px";
-	};
+	}
 	else if (supportedCSS)
 	return function(angle){
 		this._img.style[supportedCSS]="rotate("+angle+"deg)";
-	};
+	}
 	else 
 	return function(angle)
 

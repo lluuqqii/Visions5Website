@@ -13,7 +13,7 @@ var QueryLoader = {
 	overlay: "",
 	loadBar: "",
 	preloader: "",
-	items: [],
+	items: new Array(),
 	doneStatus: 0,
 	doneNow: 0,
 	selectorPreload: "body",
@@ -151,4 +151,4 @@ var QueryLoader = {
 			$(QueryLoader.preloader).remove();
 		});
 	}
-};
+}
