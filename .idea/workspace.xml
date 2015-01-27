@@ -2,7 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37cb265b-5efd-45a0-85b4-58e226171839" name="Default" comment="">
+<<<<<<< HEAD
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/main.css" afterPath="$PROJECT_DIR$/styles/main.css" />
+=======
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2013conference.html" afterPath="$PROJECT_DIR$/2013conference.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2013films.html" afterPath="$PROJECT_DIR$/2013films.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2013keynote.html" afterPath="$PROJECT_DIR$/2013keynote.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2014conference.html" afterPath="$PROJECT_DIR$/2014conference.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2014films.html" afterPath="$PROJECT_DIR$/2014films.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2014keynote.html" afterPath="$PROJECT_DIR$/2014keynote.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Templates/Visions5Template.dwt" afterPath="$PROJECT_DIR$/Templates/Visions5Template.dwt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/bootstrap.js" afterPath="$PROJECT_DIR$/scripts/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/faq.html" afterPath="$PROJECT_DIR$/faq.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/jQueryRotate.js" afterPath="$PROJECT_DIR$/scripts/jQueryRotate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/jquery-ui-1.11.2/jquery-ui.js" afterPath="$PROJECT_DIR$/scripts/jquery-ui-1.11.2/jquery-ui.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/jquery.flipster.css" afterPath="$PROJECT_DIR$/styles/jquery.flipster.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/jquery.flipster.js" afterPath="$PROJECT_DIR$/scripts/jquery.flipster.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mission.html" afterPath="$PROJECT_DIR$/mission.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/press.html" afterPath="$PROJECT_DIR$/press.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/queryLoader.js" afterPath="$PROJECT_DIR$/scripts/queryLoader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sponsor.html" afterPath="$PROJECT_DIR$/sponsor.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sponsor2.html" afterPath="$PROJECT_DIR$/sponsor2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/staff.html" afterPath="$PROJECT_DIR$/staff.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/submit.html" afterPath="$PROJECT_DIR$/submit.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/whatisvisions.html" afterPath="$PROJECT_DIR$/whatisvisions.html" />
+>>>>>>> origin/master
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Visions5Website.iws" />
@@ -28,11 +55,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="whatisvisions.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/whatisvisions.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state vertical-scroll-proportion="0.74364895" vertical-offset="3606" max-vertical-offset="4488">
               <caret line="250" column="0" selection-start-line="250" selection-start-column="0" selection-end-line="250" selection-end-column="0" />
+=======
+            <state vertical-scroll-proportion="0.6754967" vertical-offset="272" max-vertical-offset="3009">
+              <caret line="52" column="22" selection-start-line="52" selection-start-column="22" selection-end-line="52" selection-end-column="22" />
+>>>>>>> origin/master
               <folding />
             </state>
           </provider>
@@ -40,20 +72,22 @@
       </file>
     </leaf>
   </component>
-  <component name="FindManager">
-    <FindUsagesManager>
-      <setting name="OPEN_NEW_TAB" value="true" />
-    </FindUsagesManager>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/mission.html" />
         <option value="$PROJECT_DIR$/whatisvisions.html" />
         <option value="$PROJECT_DIR$/styles/main.css" />
+=======
+        <option value="$PROJECT_DIR$/scripts/jquery.flipster.js" />
+        <option value="$PROJECT_DIR$/sponsor2.html" />
+        <option value="$PROJECT_DIR$/styles/boxstyle.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+>>>>>>> origin/master
       </list>
     </option>
   </component>
@@ -62,8 +96,14 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
     <option name="width" value="960" />
     <option name="height" value="1040" />
+=======
+    <option name="x" value="960" />
+    <option name="width" value="960" />
+    <option name="height" value="1080" />
+>>>>>>> origin/master
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -74,9 +114,6 @@
     <OptionsSetting value="true" id="Edit" />
     <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
-  </component>
-  <component name="ProjectReloadState">
-    <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -209,7 +246,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="0" y="0" width="960" height="1040" extended-state="0" />
+=======
+    <frame x="960" y="0" width="960" height="1080" extended-state="0" />
+>>>>>>> origin/master
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -219,7 +260,11 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3315678" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+=======
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2605932" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> origin/master
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -266,6 +311,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.0" vertical-offset="884" max-vertical-offset="2771">
           <caret line="52" column="22" selection-start-line="52" selection-start-column="22" selection-end-line="52" selection-end-column="22" />
         </state>
@@ -303,6 +349,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+=======
+>>>>>>> origin/master
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4573">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
@@ -396,6 +444,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.53125" vertical-offset="0" max-vertical-offset="5899">
           <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -434,6 +483,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/SlideDownBoxMenu/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="959" max-vertical-offset="1904">
@@ -474,6 +524,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.74364895" vertical-offset="3606" max-vertical-offset="4488">
           <caret line="250" column="0" selection-start-line="250" selection-start-column="0" selection-end-line="250" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6754967" vertical-offset="272" max-vertical-offset="3009">
+          <caret line="52" column="22" selection-start-line="52" selection-start-column="22" selection-end-line="52" selection-end-column="22" />
+>>>>>>> origin/master
           <folding />
         </state>
       </provider>
