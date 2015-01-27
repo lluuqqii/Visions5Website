@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 @charset "UTF-8";
 /* CSS Document */
 
@@ -17,6 +16,12 @@ body {
 @font-face {
 	font-family: amityjack;
 	src: url(../fonts/Amity%20Jack.ttf);
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
 }
 
 @font-face {
@@ -164,7 +169,6 @@ h1 {
 }
 h2 {
 	font-family: 'Evogria';
-	url('http://www.fontsaddict.com/fontface/evogria.ttf');
 	text-align: center;
 	font-size: 28px;
 	font-weight: bolder;
@@ -233,10 +237,12 @@ footer p {
 }
 
 #socialMediaBar {
-	margin-top: 10px;
+	margin-bottom: 30px;
 	float:right;
 	margin-right: 5px;
-	height: 10px;
+	position:absolute;
+	right: 0px;
+	top: 0px;
 }
 .navisize {
 
@@ -511,7 +517,6 @@ h1 {
 }
 h2 {
 	font-family: 'Evogria';
-	url('http://www.fontsaddict.com/fontface/evogria.ttf');
 	text-align: center;
 	font-size: 28px;
 	font-weight: bolder;
@@ -692,5 +697,4 @@ footer p {
 .instagram-slide:hover {
 	background-position: 0px -48px;
 	box-shadow: 0px 0px 4px 1px rgba(0,0,0,0.8);
->>>>>>> origin/master
 }
