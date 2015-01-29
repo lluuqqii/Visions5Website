@@ -2,7 +2,7 @@ ul.sdt_menu{
 	margin:0;
 	padding:0;
 	list-style: none;
-	font-family:"Myriad Pro", "Trebuchet MS", sans-serif;
+	font-family:'amityjack';
 	font-size:14px;
 	width:1020px;
 }
@@ -18,7 +18,7 @@ ul.sdt_menu li{
 	cursor:pointer;
 }
 ul.sdt_menu li > a{
-	position:absolute;
+	position:absolute
 	top:0px;
 	left:0px;
 	width:170px;

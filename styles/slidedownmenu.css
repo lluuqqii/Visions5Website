@@ -1,6 +1,4 @@
 ul.sdt_menu{
-	margin:0;
-	padding:0;
 	list-style: none;
 	font-size:10px;
 	width:600px;
@@ -131,6 +129,6 @@ ul.sdt_menu li div.sdt_box a:first-child{
 }
 ul.sdt_menu li div.sdt_box a:hover{
 	color:#fff;
-		outline:none;
-	border: none;
+	outline:none;
+	border:thick;
 }
