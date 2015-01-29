@@ -1,4 +1,4 @@
-.bubnavigation{
+.navigation{
     margin: 0px auto;
     font-family: "Trebuchet MS", sans-serif;
     font-size: 24px;
@@ -14,20 +14,20 @@
     left:110px;
 }
 .home{
-    top:50px;
-    left:360px;
+   top:50px;
+   left:360px;
 }
 .shop{
-    top:90px;
-    left:625px;
+   top:90px;
+   left:625px;
 }
 .camera{
-    top:230px;
-    left:835px;
+   top:230px;
+   left:835px;
 }
 .fav{
-    top:420px;
-    left:950px;
+   top:420px;
+   left:950px;
 }
 a.icon{
     width:52px;
@@ -38,19 +38,19 @@ a.icon{
     cursor:pointer;
 }
 .user a.icon{
-    background:transparent url(../images/user.png) no-repeat 0px 0px;
+    background:transparent url(../BubbleNavigation/images/user.png) no-repeat 0px 0px;
 }
 .home a.icon{
-    background:transparent url(../images/home.png) no-repeat 0px 0px;
+    background:transparent url(../BubbleNavigation/images/home.png) no-repeat 0px 0px;
 }
 .shop a.icon{
-    background:transparent url(../images/shop.png) no-repeat 0px 0px;
+    background:transparent url(../BubbleNavigation/images/shop.png) no-repeat 0px 0px;
 }
 .camera a.icon{
-    background:transparent url(../images/camera.png) no-repeat 0px 0px;
+    background:transparent url(../BubbleNavigation/images/camera.png) no-repeat 0px 0px;
 }
 .fav a.icon{
-    background:transparent url(../images/fav.png) no-repeat 0px 0px;
+    background:transparent url(../BubbleNavigation/images/fav.png) no-repeat 0px 0px;
 }
 .navigation .item a.active{
     background-position:0px -52px;
