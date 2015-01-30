@@ -379,18 +379,7 @@ body {
 	font-weight: normal;
 	font-style: normal;
 }
-a:link, a:visited {
-	color: #de905a;
-	font-weight: normal;
-	font-style: normal;
-	border-bottom: 0;
-}
-a:link:hover, a:visited:hover {
-	color: #585858;
-	font-weight: normal;
-	font-style: normal;
-	border-bottom: 0;
-}
+
 a.plaintext_anchor {
 	color: #424549;
 	font-weight: normal;
@@ -853,17 +842,8 @@ h6.headings_xxxsmall, .headings_xxxsmall h6 {
 .widget_body h1, .widget_body h2, .widget_body h3, .widget_body h4, .widget_body h5, .widget_body h6 {
 	font-family: Arial, Helvetica, sans-serif;
 }
-.widget_distinct .widget_body h1, .widget_distinct .widget_body h2, .widget_distinct .widget_body h3, .widget_distinct .widget_body h4, .widget_distinct .widget_body h5, .widget_distinct .widget_body h6 {
-	color: #696969;
-	font-weight: normal;
-	font-style: normal;
-}
-.widget_distinct .widget_body a:link, .widget_distinct .widget_body a:visited {
-	color: #de905a;
-	font-weight: bolder;
-	font-style: normal;
-	border-bottom: 0;
-}
+
+
 .widget_distinct .widget_body a:link:hover, .widget_distinct .widget_body a:visited:hover {
 	color: #585858;
 	font-weight: normal;
