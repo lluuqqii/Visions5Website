@@ -224,13 +224,6 @@ ul, ol {
 	text-align: justify;
 	margin:5px 20px 5px 20px;
 }
-a:link {
-	color: #FF2602
-}
-
-a:visited {
-	color: #FFF
-}
 
 .exampleImage {
 	box-sizing: padding-box;
@@ -570,12 +563,6 @@ ul, ol {
 	color: #FDCB02;
 	text-align: justify;
 	margin:5px 20px 5px 20px;
-}
-a:link {
-	color: #FF2602
-}
-a:visited {
-	/* [disabled]color: #FFF; */
 }
 
 .exampleImage {
