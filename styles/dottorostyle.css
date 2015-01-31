@@ -3697,6 +3697,7 @@ a.overlay_button.standard.external {
 	font-size: 16px;
 	position: relative;
 	top: -77px;
+	max-height: 39px;
 }
 .popup_menu .sub-menu > li > a, .popup_menu .sub-menu > li > a:link, .popup_menu .sub-menu > li > a:hover, .popup_menu .sub-menu > li > a:visited {
 	outline: 0;

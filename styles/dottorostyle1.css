@@ -152,7 +152,6 @@ Version:        1.0
 }
 .horizontal_submenus2 .menu_normal > li > .sub-menu {
 	left: 0 !Important;
-	right: 0 !Important;
 }
 .horizontal_submenus2 .menu_normal > li > .sub-menu > li {
 	float: left !Important;
@@ -176,7 +175,6 @@ Version:        1.0
 }
 /* decrease the right padding of first-level submenu folder labels (submenu items that has a submenu) */
 .horizontal_submenus2 .menu_normal > li > .sub-menu > li > a > .label_holder {
-	padding-right: 6px !Important;
 }
 /* Change the opening direction of the second level submenus to downward */
 .horizontal_submenus2 .menu_normal > li > .sub-menu > li > .sub-menu {

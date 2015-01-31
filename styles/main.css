@@ -20,6 +20,12 @@ body {
 	padding: 0;
 }
 
+a:-webkit-any-link {
+color: -webkit-link;
+text-decoration: none;
+cursor: auto;
+}
+
 @font-face {
 	font-family: amityjack;
 	src: url(../fonts/Amity%20Jack.ttf);
